@@ -1,0 +1,14 @@
+Конспект - https://www.dropbox.com/s/q3lvicqhu74jqo9/02 конспект.pdf?dl=0
+
+Файл HTML - https://www.dropbox.com/s/gw06vvheuo6mxzw/index.html?dl=0 
+
+Dev Mode в Figma - https://www.youtube.com/watch?v=zPAPYYKPUEk
++Про Dev Mode - https://www.figma.com/dev-mode/
++Расширение Figma для VS Code - https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension
+
+Установите редактор кода VS Code - https://code.visualstudio.com/download
+
+Откройте макет сайта - https://www.figma.com/file/aRwno9zzsNusvsgwQPjwTJ/Cats-(Copy)?type=design&node-id=1%3A53&mode=design&t=ZrtkqBQ7K2ww5VIj-1
+
+
+
